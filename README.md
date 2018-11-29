@@ -8,13 +8,3 @@ Enemies are objects too. They should get more difficult as the game progresses.
 Items should drop randomly from enemies."
 
 
-
-# Mocks and Stubs
-
-https://semaphoreci.com/community/tutorials/stubbing-and-mocking-with-mockito-2-and-junit
-
-http://site.mockito.org/
-
-https://github.com/mockito/mockito/wiki
-
-https://github.com/mockito/mockito/wiki/How-to-write-good-tests
